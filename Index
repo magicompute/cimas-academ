@@ -1,4 +1,17 @@
-Computacion
-Secretariado
-Contabilidad
-Administracion
+<html>
+<head>
+	<title>Sistema academico</title>
+</head>
+<body>
+
+<h3>Registro De Carreras</h3>
+
+	<ul>
+		<li>Computación</li>
+		<li>Secretariado</li>
+		<li>Contabilidad</li>
+		<li>Administracion</li>
+	</ul>
+</body>
+</html>
+
